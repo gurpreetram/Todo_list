@@ -62,6 +62,7 @@ const Dashboard = () => {
 
     return (
         <>
+          <h1>Gurpreet ram</h1>
             <div className="  flex flex-col  items-center  bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 w-full overflow-hidden h-screen">
 
                 <div className="mt-14 p-14 bg-blue-950 rounded-lg">
